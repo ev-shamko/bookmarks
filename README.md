@@ -4,6 +4,10 @@
 
 * Реализация общих структур данных на JS
 
+## [TypeScript](https://github.com/ev-shamko/bookmarks/blob/main/typescript.md)
+
+* Полезные ссылки на тему тс
+
 ## [Ubuntu](https://github.com/ev-shamko/bookmarks/blob/master/ubuntu.md)
 
 * Настройка сервера на Ubuntu
