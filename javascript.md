@@ -15,3 +15,5 @@
 * EN [8 Common Data Structures in Javascript](https://medium.com/better-programming/8-common-data-structures-in-javascript-3d3537e69a27 )
 
 * RU/EN [Алгоритмы и структуры данных на JavaScript](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ru-RU.md) Блистательный репозиторий. Не только структуры данных и алгоритмы, но и их сложность, песочница, ссылка на другие языки и источники, в т.ч. ютуб. По переводу - не всё на русском, но читается легко и на английском.
+
+* RU [Способы глубокого и неглубокого копирования в JS](https://www.youtube.com/watch?v=KeVbF3948Kk)
