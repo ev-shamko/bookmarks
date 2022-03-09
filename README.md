@@ -11,3 +11,7 @@
 ## [Ubuntu](https://github.com/ev-shamko/bookmarks/blob/master/ubuntu.md)
 
 * Настройка сервера на Ubuntu
+
+## [Разное] (https://github.com/ev-shamko/bookmarks/blob/main/rest.md)
+
+* Прочие полезности
